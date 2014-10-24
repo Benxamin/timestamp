@@ -11,6 +11,6 @@ var Timestamp = require('benxamin/timestamp');
 ```
 
 ```js
-unixts = new Timestamp(); 
+var ts = new Timestamp(); 
 // returns nine-digit timestamp, ex: 1414173246.
 ```
