@@ -4,5 +4,6 @@
   "repo": "benxamin/timestamp",
   "version": "0.0.1",
   "scripts": ["timestamp.js"],
+  "keywords": ["ts", "timestamp", "unix"],
   "license": "MIT"
 }
