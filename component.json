@@ -1,0 +1,8 @@
+{
+  "name": "timestamp",
+  "description": "Returns a UNIX-like timestamp",
+  "repo": "benxamin/timestamp",
+  "version": "0.0.1",
+  "scripts": ["timestamp.js"],
+  "license": "MIT"
+}
